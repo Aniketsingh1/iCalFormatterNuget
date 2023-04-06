@@ -1,0 +1,12 @@
+D:\nugetpackages\KastleICalInputFormatter.Common\bin\Debug\net6.0\KastleICalInputFormatter.Common.deps.json
+D:\nugetpackages\KastleICalInputFormatter.Common\bin\Debug\net6.0\KastleICalInputFormatter.Common.dll
+D:\nugetpackages\KastleICalInputFormatter.Common\bin\Debug\net6.0\KastleICalInputFormatter.Common.pdb
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.csproj.AssemblyReference.cache
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.AssemblyInfoInputs.cache
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.AssemblyInfo.cs
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.csproj.CoreCompileInputs.cache
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.dll
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\refint\KastleICalInputFormatter.Common.dll
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\KastleICalInputFormatter.Common.pdb
+D:\nugetpackages\KastleICalInputFormatter.Common\obj\Debug\net6.0\ref\KastleICalInputFormatter.Common.dll
